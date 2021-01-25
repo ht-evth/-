@@ -1,0 +1,16 @@
+int get_int_five();
+double fun();
+
+int main()  {
+   fun =99;
+   return fun();
+}
+
+
+
+double funcfff()  {
+	double qwe = 100;
+	int a = 5; a *= 10;
+	a /= 2; do a += 10; while (a < 50); return qwe;
+	
+}

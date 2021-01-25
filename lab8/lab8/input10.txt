@@ -1,0 +1,9 @@
+
+double fun();
+
+int main()  {
+   	int d = 2-fun()
+	return fun();
+}
+
+

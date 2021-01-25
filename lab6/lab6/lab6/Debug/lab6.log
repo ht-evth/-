@@ -1,0 +1,4 @@
+﻿  Syntax_analyzer.cpp
+C:\Users\hunte\source\repos\krch\lab6\lab6\lab6\Syntax_analyzer.cpp(294,9): warning C4101: uk1: неиспользованная локальная переменная
+C:\Users\hunte\source\repos\krch\lab6\lab6\lab6\Syntax_analyzer.cpp(468,9): warning C4101: uk1: неиспользованная локальная переменная
+  lab6.vcxproj -> C:\Users\hunte\source\repos\krch\lab6\lab6\Debug\lab6.exe

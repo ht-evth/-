@@ -1,0 +1,4 @@
+float 12()
+{
+	return 1;
+}

@@ -1,0 +1,12 @@
+int main()
+{
+	double a = 1;
+	
+	float x = while;
+	
+	do / while(1 != 2);
+	
+	do a += 1; whil(a == 1);
+	
+	return do * 3;
+}

@@ -1,0 +1,7 @@
+int func_a();
+float func_a();
+
+int main()
+{
+	double a, b;
+}

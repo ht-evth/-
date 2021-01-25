@@ -1,0 +1,122 @@
+
+// объявление функции
+int get_int_five();
+float XXXX();
+
+// описание функции, которая возвращает целое число 5
+int get_int_five()
+{	
+	return 5;
+}
+
+// функция, которая возвращает число 5 в формате float
+float get_float_five()
+{
+	float temp = 5;
+	return temp;
+}
+
+int main();
+
+/* 
+	многострочный комментарий. Создадим глобальные переменные 
+	TEN = 10
+	SIX = 6
+	TWO = 2
+*/
+int TEN = 10, SIX = 6;
+double TWO = 2;
+
+
+int main()
+{
+	double a = 1, b = 10, c = 15;
+	
+	
+	{{{{ { ;;; } ;} ;;}
+	
+	do
+	{
+		float d = 20
+		d += 5 + 10 * 3 / 10 * 6 / 2 * 10 / 2;
+		d -= 1;
+		d += TWO + 5 - 1;
+		d += 10 % 2;
+		
+		a *= TEN + SIX - 3
+		
+		c /= 1;
+		c *= 2;
+		c /= 1;
+		c *= 1;
+		c /= 2;
+		c *= 1;
+		
+		d -= 6 < 5 > 1 != 2 == 3 <= 11 >= 15;
+		d -= 1 == 1 <= 1 <= 3;
+		
+		int k = 10, m = 9, n = 8;
+		do 
+		{
+			k++;
+			m++;
+			n--;
+		} while(k != 15);
+		
+		do 
+		{
+			k--;
+			m--;
+			n++;
+		} while(m != 1);
+		
+		
+		int some_massiv[] = {5, 10, 15, 20, 26, 0};
+		int _new_massiv[10-6] = {4, 2, 1};
+		int other_massiv[3] = {1, 2, 3};
+		
+		other_massiv[1] += some_massiv['q' * 0] + TEN;
+		
+		float r = 100, u = 0, iii, ooo, q[] = {1, 2}, w[9]; eee, zzz = 3, k;
+		
+		float var = 10000 % 10 % 10 % 10;
+		var %= 1;
+		var %= 6 >= SIX;
+		var %= 1 == 1;
+		
+		int aaa = 0
+		aaa = TEN > 10 > 5 > 2
+		aaa = 2 < 3 < 4 < 11
+		
+		{}
+		
+		;;;;;;;;;;;;;;;;;;;;
+		
+		aac = qwe = get_char_five();
+		
+		b -= 1;		
+	} while(b >= 0);
+	
+	
+	
+	return 0;
+	return 5 + 6;
+	return TEN - 5;
+	return SIX + k * (2 + 1) - 1 * (TEN - 9);
+}
+
+// описание функции, объявленной в начале
+float XXXX() 
+{ 
+	{{;;;}}
+	return 0; 
+}
+
+
+double funcfff()
+{
+	double qwe = 100;
+	int a = 5; a *= 10;
+	a /= 2; do a += 10; while (a < 50); return qwe;
+	
+}

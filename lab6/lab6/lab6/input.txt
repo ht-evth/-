@@ -1,0 +1,20 @@
+float func_1();
+
+
+int main()
+{
+	int 555;
+
+	int a = 6;
+	do
+	{
+	double aa[12);
+		a -= 1;
+	} while(a > 0);
+
+}
+
+float func_1()
+{
+	
+}

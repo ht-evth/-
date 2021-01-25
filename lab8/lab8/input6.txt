@@ -1,0 +1,10 @@
+int main()
+{
+	do
+	{
+		int a, b;
+		double k;
+		double k = 0; // повторное описание идентификатора
+	} while(1);
+	
+}
